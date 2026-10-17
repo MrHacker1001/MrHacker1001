@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Muneeb Shah
 
-<!--
-**MrHacker1001/MrHacker1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I enjoy building practical projects, solving problems with code, and exploring how artificial intelligence can make software more useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+
+- 🐍 Building projects with Python
+- 🤖 Exploring AI, machine learning, and automation
+- 💻 Improving my software development skills
+- 🧠 Learning by building real-world applications
+- 🎯 Working toward becoming an AI engineer
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, HTML, CSS, JavaScript
+
+**Currently Exploring:** Machine Learning, AI Assistants, APIs, Automation, Git & GitHub
+
+## 🚀 Featured Projects
+
+- [Number Guessing Game](https://github.com/MrHacker1001/Number-Guessing-Game) — A Python guessing game.
+- [Rent Calculator](https://github.com/MrHacker1001/rent-calculator) — A Python rent-sharing calculator.
+- [My First Project](https://github.com/MrHacker1001/My_First_Project-) — An early Python project.
+
+## 📈 My Goal
+
+Learn deeply, build consistently, and turn ideas into useful software.
+
+---
+
+*Building today. Engineering the future.*
+
